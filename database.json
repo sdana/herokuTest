@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "seth dana",
+      "email": "seth.dana@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "bob jones",
+      "email": "bob@gmail.com",
+      "id": 2
+    }
+  ],
+  "events": [
+    {
+      "userId": "1",
+      "name": "test",
+      "date": "2018-07-28",
+      "location": "nowhere",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "userId": "1",
+      "desc": "testintiwetoijwe",
+      "dueDate": "2018-07-18",
+      "complete": "true",
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "desc": "aejfaoiewj",
+      "dueDate": "275760-09-10",
+      "complete": "false",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "desc": "aefaeaaefaewfawe",
+      "dueDate": "2018-07-18",
+      "complete": "false",
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "desc": "eafawef",
+      "dueDate": "2018-07-18",
+      "complete": "false",
+      "id": 4
+    }
+  ],
+  "friends": [
+    {
+      "userId": "1",
+      "yourId": "2",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "yourId": "1",
+      "id": 2
+    }
+  ],
+  "messages": [],
+  "articles": [
+    {
+      "title": "Drag from TO DO to DOING and change background",
+      "synopsis": "adfawe",
+      "url": "aewfawef",
+      "timestamp": "2018-07-09 09:47:57 am",
+      "userId": "1",
+      "id": 1
+    }
+  ]
+}
